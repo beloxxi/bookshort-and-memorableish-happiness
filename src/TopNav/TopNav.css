@@ -1,0 +1,15 @@
+
+.navigatorr{
+    background: #0874d3;
+    width: 100vw;
+    height: 75px;
+    /* border: 1px solid #000; */
+}   
+
+.dfih{
+    object-fit: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 30px;
+}
